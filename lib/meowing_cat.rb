@@ -1,1 +1,4 @@
-## code your solution here. 
+class cat 
+  
+  def cat.new 
+    attr_accessor :name 
